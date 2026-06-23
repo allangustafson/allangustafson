@@ -1,4 +1,4 @@
-```
+
 $\color{red}{\textsf{allan@gustafson}}$
 ------------------------
 OS: Linux, Windows, Mac
@@ -12,4 +12,3 @@ Languages.Real: English
 
 Email.Personal: allan.s.gustafson@gmail.com
 LinkedIn: allan-gustafson
-```
