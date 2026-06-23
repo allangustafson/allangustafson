@@ -1,5 +1,5 @@
 ```math
-$\color{red}{\textsf{allan@gustafson}}$
+\color{red}{\textsf{allan@gustafson}}
 ------------------------
 OS: Linux, Windows, Mac
 Uptime: 33 years
